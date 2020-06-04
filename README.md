@@ -37,13 +37,11 @@ Also just FYI as some of the gameservers are offline and there is no clear way t
 	https://devploit.dev/2020/02/09/nullconHackIM-ZeldaAdventures.html
 
 3. **Pwn Adventure Series by Vector35**
-	- [PwnAdventure Z](https://github.com/Vector35/PwnAdventureZ)
 	- [PwnAdventure Sourcery (In Browser)](https://sourcery.pwnadventure.com/)
 	- [PwnAdventure 2](http://ghostintheshellcode.com/#pwnadventure2)
 	- [PwnAdventure 3](http://pwnadventure.com/)
 
 	Writeups  
-	https://www.hackucf.org/csaw-2015-finals-blox-pwnadventurez-re-250/  
 	https://thekidofarcrania.gitlab.io/2018/11/18/csaw-finals-18/  
 	https://www.digitaloperatives.com/2014/01/19/ghost-in-the-shellcode-2014-write-up-choose-your-pwn-adventure-2-200-portal/  
 	http://lockboxx.blogspot.com/2014/01/ghost-in-shellcode-2014-ctf-writeup.html  
@@ -147,32 +145,37 @@ Also just FYI as some of the gameservers are offline and there is no clear way t
 	https://s3-ap-southeast-1.amazonaws.com/he-public-data/pong-writeupd842017.pdf  
 
 17. **HackTheVote CTF 2016**
-
 	- [The Wall](https://github.com/RPISEC/HackTheVote/tree/master/reversing/theWall)
   
 	Writeups  
 	https://emanuelecozzi.net/posts/ctf/how-to-fly-with-radare2
 
 18. **Plaid CTF 2020**
-
 	- [Watness 2 [Mac]](https://ctf.harrisongreen.me/code/2020/plaidctf/game_cleaned.rc1)
 
 	Writeups  
 	https://ctf.harrisongreen.me/2020/plaidctf/the_watness_2/    
 
 19. **Defcon CTF Quals 2020**
-
 	- [Babymaze](https://github.com/TFNS/writeups/tree/master/2020-05-18-DefconQualification/babymaze)
-	- Mamamaze
-  
+	- Mamamaze  
+
+20. **Flare-On 5 (2018)**
+	- [Challenge2 - Ultimate Minesweeper](https://github.com/albertzsigovits/flare-on-challenges/blob/master/2018/FlareOn5_Challenges/02_UltimateMinesweeper.7z)
+
+	Writeups  
+	https://bruce30262.github.io/flare-on-challenge-2018-write-up/#level-2  
+	http://justanotherdfirblog.blogspot.com/2018/10/flare-on-2018-challenge-2-ultimate.html  
+	https://medium.com/@EpsilonCalculus/write-up-to-the-2018-flare-on-challenge-infosec-newbie-edition-flareon5-6444431444b4  
+
 ***
    
 ### Retro [Gameboy/NES]
   
   
-1. **Flareon 2019**
+1. **Flare-On 6 (2019)**
 
-	- [Challenge-8 : Snake (NES)](http://flare-on.com/files/Flare-On6_Challenges.zip) 
+	- [Challenge-8 : Snake](http://flare-on.com/files/Flare-On6_Challenges.zip) 
 	
 	Writeups  
 	https://www.fireeye.com/content/dam/fireeye-www/blog/pdfs/FlareOn6_Challenge8_Solution_SNAKE.pdf  
@@ -226,11 +229,13 @@ Also just FYI as some of the gameservers are offline and there is no clear way t
 	https://radareorg.github.io/blog/posts/solving-at-gunpoint-from-hack-lu-2014-with-radare2/  
 
 8. **CSAW CTF 2015**
-	- [Hacking Time (NES)](https://github.com/osirislab/CSAW-CTF-2015-Quals/tree/master/reversing/HackingTime)
+	- [Hacking Time](https://github.com/osirislab/CSAW-CTF-2015-Quals/tree/master/reversing/HackingTime)
+	- [PwnAdventure Z](https://github.com/Vector35/PwnAdventureZ)
 
 	Writeups  
 	https://bruce30262.github.io/csaw-ctf-2015-hacking-time/  
 	https://www.voidsecurity.in/2015/09/csaw-ctf-re200-hacking-time.html  
+	https://www.hackucf.org/csaw-2015-finals-blox-pwnadventurez-re-250/    
 
 9. **Reply CTF 2018**
 	- [GOODBOY](https://challenges.reply.com/tamtamy/file/download-29827.action)
@@ -265,6 +270,12 @@ Also just FYI as some of the gameservers are offline and there is no clear way t
 	
 	Writeups  
 	https://ptr-yudai.hatenablog.com/entry/2019/12/02/093635  
+
+16. **HackTheBox**
+	- [Nostalgia](https://www.hackthebox.eu/home/challenges/Reversing)  
+
+	Writeups  
+	https://exp111.github.io/Nostalgia/  
 
 ---
 
