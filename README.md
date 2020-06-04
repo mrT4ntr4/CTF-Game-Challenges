@@ -107,11 +107,12 @@ Also just FYI as some of the gameservers are offline and there is no clear way t
 	- [Follow The White Rabbit](https://earth.2020.cscg.de/tasks/Follow%20The%20White%20Rabbit%20-%20Cave)  
 	Challs include `Cave & Datamining`  
 
-	- [Maze](https://earth.2020.cscg.de/tasks/Maze%20-%20Emoji)  
+	- [Maze](http://maze.liveoverflow.com/)  
 	Challs include `Emoji, M4z3 Runn3r, Map Radar, Maze Runner, The Floor Is Lava, Tower`  
 
 	Writeups  
 	https://stygiansecurity.com/following-the-white-rabbit-in-game/  
+	https://github.com/bburky/mmo-maze-frida  
 
 12. **XMAS CTF 2019**
 	- [Lapland Mission](https://drive.google.com/file/d/1pSe5wVzYU7kC69v7oFGoPT13Sm5W2PBh/view)
