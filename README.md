@@ -306,8 +306,8 @@ Also just FYI as some of the gameservers are offline and there is no clear way t
 	Writeups  
 	https://blog.rois.io/en/2020/rctf-2020-official-writeup-2/  
 
-4. **Defenit CTF 2020**
-	-[Catchmouse](https://drive.google.com/file/d/1AMlDm8OGFwwKk2vJYTT5W_2GqY89xMqc/view)  
+4. **Defenit CTF 2020**  
+	- [Catchmouse](https://drive.google.com/file/d/1AMlDm8OGFwwKk2vJYTT5W_2GqY89xMqc/view)  
 
 ---
 
