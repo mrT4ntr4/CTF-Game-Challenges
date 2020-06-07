@@ -267,6 +267,8 @@ Also just FYI as some of the gameservers are offline and there is no clear way t
 14. **RCTF 2020**
 	- [My Switch Game](https://adworld.xctf.org.cn/media/uploads/task/96885ee00f0a43369b656e0d1498a040.zip)
 
+	Writeups  
+	https://blog.rois.io/en/2020/rctf-2020-official-writeup-2/  
 
 15. **CTFZone Quals 2019**
 	- [M394Dr1V3 cr4cKM3](https://captf3.captf.com/2019/ctfzone/reversing/m394dr1v3-cr4ckm3/)
@@ -300,6 +302,12 @@ Also just FYI as some of the gameservers are offline and there is no clear way t
 
 3. **RCTF 2020**
 	- [Play The Game](https://adworld.xctf.org.cn/media/uploads/task/cb3f4ef2acd145beb3f5b671fda677a2.zip)
+	
+	Writeups  
+	https://blog.rois.io/en/2020/rctf-2020-official-writeup-2/  
+
+4. **Defenit CTF 2020**
+	-[Catchmouse](https://drive.google.com/file/d/1AMlDm8OGFwwKk2vJYTT5W_2GqY89xMqc/view)  
 
 ---
 
