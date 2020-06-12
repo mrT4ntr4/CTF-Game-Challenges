@@ -11,7 +11,7 @@ Also just FYI as some of the gameservers are offline and there is no clear way t
 
 ## Contents
 
-[PC Games](#games)  
+[PC Games](#pcgames)  
 [Retro [Gameboy/NES]](#retro-gameboynes)  
 [Android](#android)  
 [Web](#web)  
@@ -308,6 +308,9 @@ Also just FYI as some of the gameservers are offline and there is no clear way t
 
 4. **Defenit CTF 2020**  
 	- [Catchmouse](https://drive.google.com/file/d/1AMlDm8OGFwwKk2vJYTT5W_2GqY89xMqc/view)  
+	
+	Writeups  
+	https://github.com/TFNS/writeups/blob/master/2020-06-05-DefenitCTF/catchmouse/README.md  
 
 ---
 
