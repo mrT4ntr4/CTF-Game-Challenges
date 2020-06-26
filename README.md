@@ -126,11 +126,16 @@ Also just FYI as some of the gameservers are offline and there is no clear way t
 	https://deadlock.team/ctf/forensic/tjctf%202020/2020/05/27/TJCTF-gamerf/  
 	https://deadlock.team/ctf/rev/tjctf%202020/2020/05/27/TJCTF-gamerr/  
 
-14. **Redpwn ctf 2019**
-	- [MC Password Storage](https://csy54.github.io/2019/08/Writeup-RedpwnCTF/Password_Manager.zip)  
+14. **Redpwn CTF**
+	- 2019
+		- [MC Password Storage](https://csy54.github.io/2019/08/Writeup-RedpwnCTF/Password_Manager.zip)  
+	- 2020
+		- [i-wanna-find-the-flag](https://github.com/redpwn/redpwnctf-2020-challenges/tree/master/rev/i-wanna-find-the-flag)
 
 	Writeups  
 	https://ctftime.org/writeup/16176  
+	https://spinstars.dev/writeups/2/  
+	https://github.com/shiversoftdev/redpwn-i-wanna-find-the-flag/blob/master/README.md  
 
 15. **Pwnium CTF 2014**
 	- [Old World](https://github.com/ctfs/write-ups-2014/tree/master/pwnium-ctf-2014/old-world)
