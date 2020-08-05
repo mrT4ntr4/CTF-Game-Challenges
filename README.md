@@ -110,6 +110,7 @@ Also just FYI as some of the gameservers are offline and there is no clear way t
 
 	Writeups  
 	https://stygiansecurity.com/following-the-white-rabbit-in-game/  
+	https://jamchamb.github.io/2020/06/21/cscg2020-maze-writeups.html  
 	https://github.com/bburky/mmo-maze-frida  
 
 12. **XMAS CTF 2019**
@@ -172,6 +173,13 @@ Also just FYI as some of the gameservers are offline and there is no clear way t
 	https://bruce30262.github.io/flare-on-challenge-2018-write-up/#level-2  
 	http://justanotherdfirblog.blogspot.com/2018/10/flare-on-2018-challenge-2-ultimate.html  
 	https://medium.com/@EpsilonCalculus/write-up-to-the-2018-flare-on-challenge-infosec-newbie-edition-flareon5-6444431444b4  
+
+21. **3kCTF-2020**
+	- [Game 1-2](https://drive.google.com/file/d/1VHlnOdGuoIKPer_s2AV5-tQjOzaCQlyB/)
+
+	Writeups  
+	https://tcode2k16.github.io/blog/posts/2020-07-26-3kctf-writeup/#game-1  
+
 
 ***
    
