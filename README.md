@@ -295,6 +295,13 @@ Also just FYI as some of the gameservers are offline and there is no clear way t
 	Writeups  
 	https://exp111.github.io/Nostalgia/  
 
+17. **InCTF 2020**
+	- [The Invisible Maze](https://0xd13a.github.io/ctfs/inctf2020/invisible-maze/output.gb)
+
+	Writeups  
+	https://0xd13a.github.io/ctfs/inctf2020/invisible-maze/  
+
+
 ---
 
 ### Android
