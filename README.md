@@ -180,8 +180,14 @@ Also just FYI as some of the gameservers are offline and there is no clear way t
 	Writeups  
 	https://tcode2k16.github.io/blog/posts/2020-07-26-3kctf-writeup/#game-1  
 
+22. **ALLES! CTF 2020**
+	- [ALLES!Craft](https://github.com/allesctf/2020/tree/master/challenges/allescraft)  
 
-***
+	Writeups  
+	https://github.com/RickdeJager/CTF/blob/master/ALLES2020/ALLESCraft/writeup.md   
+
+
+---
    
 ### Retro [Gameboy/NES]
   
@@ -301,6 +307,12 @@ Also just FYI as some of the gameservers are offline and there is no clear way t
 	Writeups  
 	https://0xd13a.github.io/ctfs/inctf2020/invisible-maze/  
 
+18. **ALLES! CTF 2020**
+	- [Flag Service Revolution(https://github.com/allesctf/2020/blob/master/challenges/flag_service_revolution/public/flag_service_revolution.7z)
+
+	Writeups  
+	https://blog.d1r3wolf.com/2020/09/alles-ctf-2020-writeups.html#flag_resolution    
+
 
 ---
 
@@ -331,6 +343,14 @@ Also just FYI as some of the gameservers are offline and there is no clear way t
 	
 	Writeups  
 	https://github.com/TFNS/writeups/blob/master/2020-06-05-DefenitCTF/catchmouse/README.md  
+
+5. **ALLES! CTF 2020**
+	- [Prehistoric Mario](https://github.com/allesctf/2020/blob/master/challenges/prehistoric-mario/public/prehistoric-mario.apk)  
+	
+	Writeups  
+	https://abhaynayar.com/ctf/alles.html  
+	https://github.com/ARESxCyber/Writeups/tree/master/ALLES!%20CTF%202020/prehistoric%20mario  
+	https://blog.d1r3wolf.com/2020/09/alles-ctf-2020-writeups.html#prehistoric_mario  
 
 ---
 
