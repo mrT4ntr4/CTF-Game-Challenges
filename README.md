@@ -11,7 +11,7 @@ Also just FYI as some of the gameservers are offline and there is no clear way t
 
 ## Contents
 
-[PC Games](#pcgames)  
+[PC Games](#pc-games)  
 [Retro [Gameboy/NES]](#retro-gameboynes)  
 [Android](#android)  
 [Web](#web)  
@@ -32,7 +32,6 @@ Also just FYI as some of the gameservers are offline and there is no clear way t
 	- [ZeldaAdventures](https://github.com/nullcon/hackim-2020/tree/master/zelda/ZeldaAdventures)
 	- [ZeldaInSpace](https://github.com/nullcon/hackim-2020/tree/master/zelda/ZeldaInSpace)  
 	
-	Writeups  
  	https://medium.com/@roottusk/helping-zelda-capture-flags-nullcon-hackim-2020-f2480099cc3c  
 	https://devploit.dev/2020/02/09/nullconHackIM-ZeldaAdventures.html
 
@@ -55,7 +54,6 @@ Also just FYI as some of the gameservers are offline and there is no clear way t
 4. **Flare-On 6 (2019)**
 	- [Challenge-8 : DnsChess](http://flare-on.com/files/Flare-On6_Challenges.zip)  
 	
-	Writeups  
 	https://www.fireeye.com/content/dam/fireeye-www/blog/pdfs/FlareOn6_Challenge4_Solution_DnsChess.pdf  
 	https://0xdf.gitlab.io/flare-on-2019/dnschess.html  
 
@@ -71,34 +69,29 @@ Also just FYI as some of the gameservers are offline and there is no clear way t
 	- [Tea Clicker](https://github.com/JEF1056/riceteacatpanda/tree/master/Tea%20Clicker%20(150))
 	- [Work In Progress](https://github.com/JEF1056/riceteacatpanda/tree/master/Work%20In%20Progress%20(400))
 
-	Writeups  
 	https://blog.nlegall.fr/rtcp-tea-clicker.html  
 	https://blog.nlegall.fr/rtcp-work-in-progress.html  
 
 7. **InsomniHack 2017**
 	- [FPS](https://download.scrt.ch/FPS/Windows.zip)
 
-	Info & Writeup  
 	https://blog.scrt.ch/2017/06/06/fps-write-ups-for-insomnihack-2017/   
 
 8. **Secuinside CTF Quals 2013**
 	- [game](https://docs.google.com/file/d/0Bxq9FZappPXQY1Y0VWtyMENjM3c/edit)
 	
-	Writeups  
 	http://lockboxx.blogspot.com/2013/06/intro-to-reversing-windows-portable.html  
 
 9. **BSidesCBR CTF 2017** 
 	- Let’s Play a Game!
 	- Old PC
 
-	Writeups  
 	https://codecadets.blog/bsides-canberra-lets-play-a-game-aa562be9b129  
 	https://codecadets.blog/bsides-canberra-2018-ctf-write-up-old-pc-37116ab7625e/  
 
 10. **Thotcon 0xa**
 	- [quack (In Browser)](http://quake.token.wtf/)
 	
-	Writeups  
 	https://lturner.net/blog/thotcon-0xa/  
 
 11. **CSCG 2020**
@@ -108,7 +101,6 @@ Also just FYI as some of the gameservers are offline and there is no clear way t
 	- [Maze](http://maze.liveoverflow.com/)  
 	Challs include `Emoji, M4z3 Runn3r, Map Radar, Maze Runner, The Floor Is Lava, Tower`  
 
-	Writeups  
 	https://stygiansecurity.com/following-the-white-rabbit-in-game/  
 	https://jamchamb.github.io/2020/06/21/cscg2020-maze-writeups.html  
 	https://github.com/bburky/mmo-maze-frida  
@@ -116,14 +108,12 @@ Also just FYI as some of the gameservers are offline and there is no clear way t
 12. **XMAS CTF 2019**
 	- [Lapland Mission](https://drive.google.com/file/d/1pSe5wVzYU7kC69v7oFGoPT13Sm5W2PBh/view)
 
-	Writeups  
 	https://github.com/archercreat/CTF-Writeups/blob/master/X-MAS%20CTF/Lapland%20Mission/README.md  
 
 13. **TJCTF 2020**
 	- [Gamer F](https://drive.google.com/file/d/19_sHTHhQ1dmXK9zmpSCuulaBXYjwAJyw/view)
 	- [Gamer R](https://drive.google.com/file/d/19cl1546hn9EymbtZg7YKBrw4u_TPDcjc/view)
 
-	Writeups  
 	https://deadlock.team/ctf/forensic/tjctf%202020/2020/05/27/TJCTF-gamerf/  
 	https://deadlock.team/ctf/rev/tjctf%202020/2020/05/27/TJCTF-gamerr/  
 
@@ -133,7 +123,6 @@ Also just FYI as some of the gameservers are offline and there is no clear way t
 	- 2020
 		- [i-wanna-find-the-flag](https://github.com/redpwn/redpwnctf-2020-challenges/tree/master/rev/i-wanna-find-the-flag)
 
-	Writeups  
 	https://ctftime.org/writeup/16176  
 	https://spinstars.dev/writeups/2/  
 	https://github.com/shiversoftdev/redpwn-i-wanna-find-the-flag/blob/master/README.md  
@@ -141,25 +130,21 @@ Also just FYI as some of the gameservers are offline and there is no clear way t
 15. **Pwnium CTF 2014**
 	- [Old World](https://github.com/ctfs/write-ups-2014/tree/master/pwnium-ctf-2014/old-world)
 
-	Writeups  
 	https://in3o.wordpress.com/2014/07/06/pwnium-ctf-2014-reverse-100-old-school/  
 
 16. **Hackerearth CipherCombat 2.0**
 	- [Pong](http://ge.tt/5Qka2L23)
 
-	Writeups  
 	https://s3-ap-southeast-1.amazonaws.com/he-public-data/pong-writeupd842017.pdf  
 
 17. **HackTheVote CTF 2016**
 	- [The Wall](https://github.com/RPISEC/HackTheVote/tree/master/reversing/theWall)
   
-	Writeups  
 	https://emanuelecozzi.net/posts/ctf/how-to-fly-with-radare2
 
 18. **Plaid CTF 2020**
 	- [Watness 2 [Mac]](https://ctf.harrisongreen.me/code/2020/plaidctf/game_cleaned.rc1)
 
-	Writeups  
 	https://ctf.harrisongreen.me/2020/plaidctf/the_watness_2/    
 
 19. **Defcon CTF Quals 2020**
@@ -167,9 +152,8 @@ Also just FYI as some of the gameservers are offline and there is no clear way t
 	- Mamamaze  
 
 20. **Flare-On 5 (2018)**
-	- [Challenge2 - Ultimate Minesweeper](https://github.com/albertzsigovits/flare-on-challenges/blob/master/2018/FlareOn5_Challenges/02_UltimateMinesweeper.7z)
+	- [Challenge-2 - Ultimate Minesweeper](https://github.com/albertzsigovits/flare-on-challenges/blob/master/2018/FlareOn5_Challenges/02_UltimateMinesweeper.7z)
 
-	Writeups  
 	https://bruce30262.github.io/flare-on-challenge-2018-write-up/#level-2  
 	http://justanotherdfirblog.blogspot.com/2018/10/flare-on-2018-challenge-2-ultimate.html  
 	https://medium.com/@EpsilonCalculus/write-up-to-the-2018-flare-on-challenge-infosec-newbie-edition-flareon5-6444431444b4  
@@ -177,15 +161,18 @@ Also just FYI as some of the gameservers are offline and there is no clear way t
 21. **3kCTF-2020**
 	- [Game 1-2](https://drive.google.com/file/d/1VHlnOdGuoIKPer_s2AV5-tQjOzaCQlyB/)
 
-	Writeups  
 	https://tcode2k16.github.io/blog/posts/2020-07-26-3kctf-writeup/#game-1  
 
 22. **ALLES! CTF 2020**
 	- [ALLES!Craft](https://github.com/allesctf/2020/tree/master/challenges/allescraft)  
 
-	Writeups  
 	https://github.com/RickdeJager/CTF/blob/master/ALLES2020/ALLESCraft/writeup.md   
 
+23. **Flare-On 7 (2020)**
+	- [Challenge-3 - Wednesday](https://github.com/aleeamini/Flareon7-2020/raw/main/3/3_-_wednesday.7z)  
+
+	https://explained.re/posts/flare-on7-wednesday/   
+	https://www.fireeye.com/content/dam/fireeye-www/blog/pdfs/flareon7-challenge3-solution.pdf  
 
 ---
    
@@ -196,7 +183,6 @@ Also just FYI as some of the gameservers are offline and there is no clear way t
 
 	- [Challenge-8 : Snake](http://flare-on.com/files/Flare-On6_Challenges.zip) 
 	
-	Writeups  
 	https://www.fireeye.com/content/dam/fireeye-www/blog/pdfs/FlareOn6_Challenge8_Solution_SNAKE.pdf  
 	https://malwareunicorn.org/workshops/flareon6_2019.html#8
 
@@ -210,19 +196,16 @@ Also just FYI as some of the gameservers are offline and there is no clear way t
 	- [Ethereal Boy](https://github.com/adeebshihadeh/ctf/blob/221d5bdeed6eadb206e72f99af7954942502d196/swampctf/game.gb)
 	- [Ethereal Boy Advanced](https://github.com/adeebshihadeh/ctf/blob/221d5bdeed6eadb206e72f99af7954942502d196/swampctf/game2.gb)
 
-	Writeups  
 	https://github.com/DancingSimpletons/writeups/blob/master/swampctf-2018/Etherealboy.md  
 
 4. **UTCTF 2020**
 	- [GameboyTAS](https://github.com/utisss/UTCTF-20/tree/master/gameboy-tas)
 
-	Writeups  
 	https://www.danbrodsky.me/writeups/utctf2020-gameboytas/  
 
 5. **HITB Amsterdam CTF 2019**
 	- [Eighties](https://storage.hitbctf.nl/hitb2019ams/eighties/eighties.387eb81c5c27.nes)
 
-	Writeups  
 	https://beunhazen.net/2019/05/24/hitams19-eighties-writeup.html  
 
 6. **r2boy series**
@@ -234,7 +217,6 @@ Also just FYI as some of the gameservers are offline and there is no clear way t
 		- [r2boy1](https://github.com/s0larpunk/ctf_challenge_writeups/blob/f4960a50fdf5446f13e4ee3131900901777e86ec/2019/ctf_solutions/radare_ctf/r2boy.gb)
 		- [r2boy2](https://github.com/s0larpunk/ctf_challenge_writeups/blob/f4960a50fdf5446f13e4ee3131900901777e86ec/2019/ctf_solutions/radare_ctf/r2boy1.gb)
 	
-	Writeups  
 	https://www.megabeets.net/reverse-engineering-a-gameboy-rom-with-radare2/  
 	https://bananamafia.dev/post/r2ctf-2019/  
 	https://github.com/s0larpunk/ctf_challenge_writeups/blob/f4960a50fdf5446f13e4ee3131900901777e86ec/2019/ctf_solutions/radare_ctf/radare_ctf_writeup.md  
@@ -242,7 +224,6 @@ Also just FYI as some of the gameservers are offline and there is no clear way t
 7. **Hacklu CTF 2014**
 	- [At gunpoint](https://github.com/ctfhacker/ctf-binaries/tree/master/binary-ctf/hack-lu-ctf-2014/at-gunpoint)
 
-	Writeups  
 	https://www.tasteless.eu/post/2014/10/hack-lu-ctf-2014-at-gunpoint/  
 	https://w00tsec.blogspot.com/2014/10/hacklu-2014-ctf-write-up-at-gunpoint.html  
 	https://radareorg.github.io/blog/posts/solving-at-gunpoint-from-hack-lu-2014-with-radare2/  
@@ -262,7 +243,6 @@ Also just FYI as some of the gameservers are offline and there is no clear way t
 9. **Reply CTF 2018**
 	- [GOODBOY](https://challenges.reply.com/tamtamy/file/download-29827.action)
 
-	Writeups  
 	https://xz.aliyun.com/t/2858#toc-4  
 
 10. **TUM CTF Teaser 2015**
@@ -274,43 +254,36 @@ Also just FYI as some of the gameservers are offline and there is no clear way t
 12. **44con CTF 2018**
 	- [SMB](https://drive.google.com/open?id=1K2t6zyJxzCwBkdJFMWRrcenyoZl5aetx)
 	
-	Writeups  
 	https://leigh-annegalloway.com/44con-ctf-writeup/  
 
 13. **KipodAfterFree CTF 2020**
 	- [Gamebob](https://github.com/Michaelikarasik/ctfs/tree/4a68f238edb7123522af1c7265dac89b3831c813/jeopardy/kipod_after_free/gamebob)
 
-	Writeups  
 	https://teamrocketist.github.io/2019/12/26/Reverse-Kipod2019-GameBob/  
 	
 14. **RCTF 2020**
 	- [My Switch Game](https://adworld.xctf.org.cn/media/uploads/task/96885ee00f0a43369b656e0d1498a040.zip)
 
-	Writeups  
 	https://blog.rois.io/en/2020/rctf-2020-official-writeup-2/  
 
 15. **CTFZone Quals 2019**
 	- [M394Dr1V3 cr4cKM3](https://captf3.captf.com/2019/ctfzone/reversing/m394dr1v3-cr4ckm3/)
 	
-	Writeups  
 	https://ptr-yudai.hatenablog.com/entry/2019/12/02/093635  
 
 16. **HackTheBox**
 	- [Nostalgia](https://www.hackthebox.eu/home/challenges/Reversing)  
 
-	Writeups  
 	https://exp111.github.io/Nostalgia/  
 
 17. **InCTF 2020**
 	- [The Invisible Maze](https://0xd13a.github.io/ctfs/inctf2020/invisible-maze/output.gb)
 
-	Writeups  
 	https://0xd13a.github.io/ctfs/inctf2020/invisible-maze/  
 
 18. **ALLES! CTF 2020**
 	- [Flag Service Revolution](https://github.com/allesctf/2020/blob/master/challenges/flag_service_revolution/public/flag_service_revolution.7z)
 
-	Writeups  
 	https://blog.d1r3wolf.com/2020/09/alles-ctf-2020-writeups.html#flag_resolution    
 
 
@@ -322,32 +295,27 @@ Also just FYI as some of the gameservers are offline and there is no clear way t
 1. **Google CTF 2018**
 	- [shall we play a game](https://github.com/google/google-ctf/tree/8e0f4a637d295f46ebb4a7213cdf4947b3881eec/2018/quals/re-android)
 
-	Writeups  
 	https://w0y.at/writeup/2018/07/02/google-ctf-quals-2018-shall-we-play-a-game.html  
 	https://github.com/AdityaVallabh/ctf-write-ups/tree/master/Google%20CTF%202018/Shall%20We%20Play%20a%20Game%3F  
 
 2. **Google CTF 2019**
 	- [Flappy Bird](https://github.com/google/google-ctf/tree/master/2019/quals/reversing-android/attachments)
 
-	Writeups  
 	https://blog.nviso.eu/2019/07/18/solving-flaggy-bird-google-ctf-2019/  
 
 3. **RCTF 2020**
 	- [Play The Game](https://adworld.xctf.org.cn/media/uploads/task/cb3f4ef2acd145beb3f5b671fda677a2.zip)
 	
-	Writeups  
 	https://blog.rois.io/en/2020/rctf-2020-official-writeup-2/  
 
 4. **Defenit CTF 2020**  
 	- [Catchmouse](https://drive.google.com/file/d/1AMlDm8OGFwwKk2vJYTT5W_2GqY89xMqc/view)  
 	
-	Writeups  
 	https://github.com/TFNS/writeups/blob/master/2020-06-05-DefenitCTF/catchmouse/README.md  
 
 5. **ALLES! CTF 2020**
 	- [Prehistoric Mario](https://github.com/allesctf/2020/blob/master/challenges/prehistoric-mario/public/prehistoric-mario.apk)  
 	
-	Writeups  
 	https://abhaynayar.com/ctf/alles.html  
 	https://github.com/ARESxCyber/Writeups/tree/master/ALLES!%20CTF%202020/prehistoric%20mario  
 	https://blog.d1r3wolf.com/2020/09/alles-ctf-2020-writeups.html#prehistoric_mario  
@@ -361,7 +329,6 @@ Most of the web games are dead!
 1. **CSAW CTF Finals 2018**
 	-  [Wic Wac Woe](https://github.com/osirislab/CSAW-CTF-2018-Finals/tree/a25d847da426baa6ebe54545ac540e12ab6408ee/pwn/wic_wac_woe)
 
-	Writeups  
 	https://zackorndorff.com/2018/11/13/csaw-ctf-finals-2018-wic-wac-woe-1-writeup/
 
 2. **Plaid CTF 2019**
