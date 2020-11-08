@@ -308,7 +308,7 @@ Also just FYI as some of the gameservers are offline and there is no clear way t
 	https://0xd13a.github.io/ctfs/inctf2020/invisible-maze/  
 
 18. **ALLES! CTF 2020**
-	- [Flag Service Revolution(https://github.com/allesctf/2020/blob/master/challenges/flag_service_revolution/public/flag_service_revolution.7z)
+	- [Flag Service Revolution](https://github.com/allesctf/2020/blob/master/challenges/flag_service_revolution/public/flag_service_revolution.7z)
 
 	Writeups  
 	https://blog.d1r3wolf.com/2020/09/alles-ctf-2020-writeups.html#flag_resolution    
