@@ -174,6 +174,11 @@ Also just FYI as some of the gameservers are offline and there is no clear way t
 	https://explained.re/posts/flare-on7-wednesday/   
 	https://www.fireeye.com/content/dam/fireeye-www/blog/pdfs/flareon7-challenge3-solution.pdf  
 
+24. **NorthSec CTF 2019**
+	- DOOM
+	
+	http://www.agardner.me/securit/ctf/northsec/2019/2019/05/19/northsec-ctf-part-1-doom.html
+	https://re-dojo.github.io/write-ups/2019-05-26-nsec-2019-doom/
 ---
    
 ### Retro [Gameboy/NES]
@@ -314,8 +319,8 @@ Also just FYI as some of the gameservers are offline and there is no clear way t
 	https://github.com/TFNS/writeups/blob/master/2020-06-05-DefenitCTF/catchmouse/README.md  
 
 5. **ALLES! CTF 2020**
-	- [Prehistoric Mario](https://github.com/allesctf/2020/blob/master/challenges/prehistoric-mario/public/prehistoric-mario.apk)  
-	
+	- [Prehistoric Mario](https://github.com/allesctf/2020/blob/master/challenges/prehistoric-mario/public/prehistoric-mario.apk)
+
 	https://abhaynayar.com/ctf/alles.html  
 	https://github.com/ARESxCyber/Writeups/tree/master/ALLES!%20CTF%202020/prehistoric%20mario  
 	https://blog.d1r3wolf.com/2020/09/alles-ctf-2020-writeups.html#prehistoric_mario  
@@ -346,6 +351,15 @@ Most of the web games are dead!
 
 	https://kishanbagaria.com/bountycon-2020/#proof-of-game--web--published-dec-30  
 	
+5. **Dice CTF 2021**
+	- [DICE IS YOU](https://github.com/dicegang/dicectf-2021-challs/tree/master/rev/dice-is-you)  
+
+	https://thegoonies.github.io/2021/02/08/dicectf-2021-rev-dice-is-you/
+	https://debugmen.dev/ctf-writeup/2021/02/08/diceisyou.html
+	https://github.com/nreusch/writeups/blob/master/dicectf_2021/writeup.md
+
+
+
 ---
 
 ## Contributing
