@@ -176,9 +176,9 @@ Also just FYI as some of the gameservers are offline and there is no clear way t
 
 24. **NorthSec CTF 2019**
 	- DOOM
-	
-	http://www.agardner.me/securit/ctf/northsec/2019/2019/05/19/northsec-ctf-part-1-doom.html
-	https://re-dojo.github.io/write-ups/2019-05-26-nsec-2019-doom/
+
+	http://www.agardner.me/securit/ctf/northsec/2019/2019/05/19/northsec-ctf-part-1-doom.html  
+	https://re-dojo.github.io/write-ups/2019-05-26-nsec-2019-doom/  
 ---
    
 ### Retro [Gameboy/NES]
@@ -354,9 +354,9 @@ Most of the web games are dead!
 5. **Dice CTF 2021**
 	- [DICE IS YOU](https://github.com/dicegang/dicectf-2021-challs/tree/master/rev/dice-is-you)  
 
-	https://thegoonies.github.io/2021/02/08/dicectf-2021-rev-dice-is-you/
-	https://debugmen.dev/ctf-writeup/2021/02/08/diceisyou.html
-	https://github.com/nreusch/writeups/blob/master/dicectf_2021/writeup.md
+	https://thegoonies.github.io/2021/02/08/dicectf-2021-rev-dice-is-you/  
+	https://debugmen.dev/ctf-writeup/2021/02/08/diceisyou.html  
+	https://github.com/nreusch/writeups/blob/master/dicectf_2021/writeup.md  
 
 
 
